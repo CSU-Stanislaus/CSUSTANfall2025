@@ -63,7 +63,7 @@ public class ForLoops {
      * Example: "Hello" -> 3
      */
     public static int countConsonants(String s) {
-        // TODO: loop; check Character.isLetter(c) and not a vowel
+        // TODO: loop; check Character.isLetter(c) and not a vowel//
         return 0;
     }
 
