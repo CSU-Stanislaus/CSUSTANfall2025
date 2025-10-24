@@ -2,7 +2,7 @@ package C_ControlStatements;
 
 import java.util.Scanner;
 
-public class ControlStatements {
+public class ControlStatementsLab3 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

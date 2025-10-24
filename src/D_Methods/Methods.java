@@ -6,7 +6,7 @@ public class Methods {
         // 30° = Math.PI/6, 45° = Math.PI/4, 90° = Math.PI/2
 
         // --- log(x) ---
-        double x1 = 1;              // try: 0.5, 1, Math.E, 0 (edge!), -3 (edge!)
+        double x1 = 5;              // try: 0.5, 1, Math.E, 0 (edge!), -3 (edge!)
         System.out.println("log(" + x1 + ") = " + Math.log(x1));
 
         // --- max(x, y) ---

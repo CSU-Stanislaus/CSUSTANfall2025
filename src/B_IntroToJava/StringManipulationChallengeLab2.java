@@ -2,7 +2,7 @@ package B_IntroToJava;
 
 import java.util.Scanner;
 
-public class StringManipulationChallenge {
+public class StringManipulationChallengeLab2 {
     //Can you see this
     // test comment
     // test comment

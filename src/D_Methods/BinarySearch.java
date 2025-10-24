@@ -7,7 +7,7 @@ public class BinarySearch {
 
         int result = binarySearch(numbers, target);
 
-        if (result == -1) {
+        if (result ==    -1) {
             System.out.println("Element not found.");
         } else {
             System.out.println("Element found at index: " + result);
