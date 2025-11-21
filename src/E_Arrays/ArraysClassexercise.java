@@ -144,6 +144,44 @@ public class ArraysClassexercise {
 
     public static void main(String[] args) {
         // Write your code here for the exercises.
+        int[] scores = new int[5];
+
+
+
+        //create algorithm
+        //initialise first element with the three
+        //add a three to the previous value
+        //move to the next index
+        //until the end
+
+
+        scores[0] = 3;
+        for (int i = 1; i < scores.length; i++) {
+            scores[i] = scores[i-1] + 3;
+        }
+
+        for (int i = 0; i < scores.length; i++) {
+            System.out.println(scores[i]);
+        }
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
     }
 
 }
